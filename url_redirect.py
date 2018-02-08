@@ -1,4 +1,4 @@
-import os, webbrowser
+import os
 from flask import Flask,redirect
 
 app = Flask(__name__)
